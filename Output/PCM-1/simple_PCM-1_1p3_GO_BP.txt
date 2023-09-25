@@ -1,0 +1,26 @@
+,pathway,enrichment,pvalue,count,class
+0,glycine biosynthetic process,7.581844763890753,8.791369478095142e-05,3,BP
+1,dihydrofolate metabolic process,7.581844763890753,8.791369478095142e-05,3,BP
+2,tetrahydrofolate biosynthetic process,6.996882263169597,0.0002186843602617349,3,BP
+3,tetrahydrofolate metabolic process,6.4119197624484405,0.0005209103695008249,3,BP
+4,mitotic nuclear envelope reassembly,6.25991666900339,0.0006495086890367205,3,BP
+5,glycosaminoglycan metabolic process,6.25991666900339,0.0006495086890367205,3,BP
+6,endoplasmic reticulum tubular network organization,5.996882263169597,0.0009478534471263776,3,BP
+7,folic acid metabolic process,5.674954168282234,0.0014966699520316,3,BP
+8,anion transport,5.25991666900339,0.0026746208128715,3,BP
+9,nuclear envelope organization,5.122413145253455,0.003235575077574,3,BP
+10,cholesterol transport,5.122413145253455,0.003235575077574,3,BP
+11,regulation of bone mineralization,5.05828280783374,0.0035348901471359,3,BP
+12,protein transport,2.049349683063732,0.0064839439850107,7,BP
+13,vesicle tethering to endoplasmic reticulum,7.996882263169597,0.0077116570051907,2,BP
+14,anion transmembrane transport,4.452561746945786,0.0080683929871778,3,BP
+15,one-carbon metabolic process,4.3723913982618035,0.0089863719389967,3,BP
+16,response to methotrexate,7.4119197624484405,0.0115454518595758,2,BP
+17,calcium ion import into sarcoplasmic reticulum,6.996882263169597,0.015364631248805,2,BP
+18,ER to Golgi vesicle-mediated transport,2.9200666661187658,0.0154298222403729,4,BP
+19,regulation of removal of superoxide radicals,6.189527341111992,0.0267350252771496,2,BP
+20,tetrahydrobiopterin biosynthetic process,5.996882263169597,0.0304962904443536,2,BP
+21,cardiac conduction,5.8269572617272845,0.034243212952587,2,BP
+22,protein modification process,3.206805332543828,0.040986269600692,3,BP
+23,cholesterol metabolic process,3.206805332543828,0.040986269600692,3,BP
+24,oligosaccharide catabolic process,5.4119197624484405,0.0453984630923132,2,BP
