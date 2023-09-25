@@ -1,0 +1,14 @@
+,pathway,enrichment,pvalue,count,class
+0,protein binding,0.5069590138044014,4.116223390621441e-05,37,MF
+1,virus receptor activity,4.638725081671574,0.000510547751702938,4,MF
+2,chaperone binding,4.155942975756896,0.0013498613707271,4,MF
+3,cholesterol binding,4.75420229909151,0.0052494782656008,3,MF
+4,volume-sensitive chloride channel activity,7.924127300533822,0.0079997493494084,2,MF
+5,L-ornithine transmembrane transporter activity,7.60219920564646,0.0099899298853131,2,MF
+6,arginine transmembrane transporter activity,7.60219920564646,0.0099899298853131,2,MF
+7,L-lysine transmembrane transporter activity,7.1167723784762185,0.0139586346696342,2,MF
+8,basic amino acid transmembrane transporter activity,6.75420229909151,0.0179118469384608,2,MF
+9,L-arginine transmembrane transporter activity,6.339164799812666,0.0238127455498526,2,MF
+10,protein heterodimerization activity,2.377232840646186,0.0387004884607913,4,MF
+11,enzyme binding,2.3542716922028744,0.0402692534986819,4,MF
+12,low-density lipoprotein particle receptor binding,5.280271110759098,0.0489868310141477,2,MF

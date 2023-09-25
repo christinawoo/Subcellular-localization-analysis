@@ -1,0 +1,27 @@
+,pathway,enrichment,pvalue,count,class
+0,response to interferon-alpha,7.084938439834793,0.00020291172190166188,3,BP
+1,response to interferon-beta,7.084938439834793,0.00020291172190166188,3,BP
+2,negative regulation of viral entry into host cell,5.959407557750934,0.0010020311470945,3,BP
+3,viral entry into host cell,4.286982215779438,0.0010393008514205,4,BP
+4,response to interferon-gamma,5.789482556308622,0.0012696142097108,3,BP
+5,response to virus,4.178047844226274,0.0012923666656986,4,BP
+6,negative regulation of viral genome replication,5.020808102415077,0.0036571060161427,3,BP
+7,L-amino acid transport,8.959407557750934,0.003910970140621,2,BP
+8,type I interferon signaling pathway,4.76301034494743,0.0051893806368428,3,BP
+9,regulation of beta-amyloid clearance,7.959407557750934,0.0078070455785904,2,BP
+10,L-ornithine transmembrane transport,7.959407557750934,0.0078070455785904,2,BP
+11,proteolysis,2.560236463931111,0.0090643766954183,5,BP
+12,positive regulation of amyloid fibril formation,7.637479462863571,0.0097495150411095,2,BP
+13,L-arginine import across plasma membrane,7.637479462863571,0.0097495150411095,2,BP
+14,L-lysine transmembrane transport,6.959407557750934,0.0155547329395416,2,BP
+15,positive regulation of tau-protein kinase activity,6.789482556308621,0.0174824315970153,2,BP
+16,chloride transmembrane transport,3.8301245408059676,0.017945901945782,3,BP
+17,positive regulation of apoptotic process,2.6062607322528515,0.0258668762267252,4,BP
+18,gene expression,3.54437005847209,0.0259757359363472,3,BP
+19,amino acid import across plasma membrane,6.152052635693329,0.0270659272168888,2,BP
+20,arginine transmembrane transport,6.052516962142415,0.0289716743696155,2,BP
+21,nucleosome assembly,3.2682456531978525,0.0369099465611436,3,BP
+22,lysosomal transport,5.567090134972173,0.0403300609103458,2,BP
+23,positive regulation of NF-kappaB transcription factor activity,3.1780478442262745,0.0413379184277341,3,BP
+24,regulation of neuron death,5.499975939113637,0.0422105052811665,2,BP
+25,zymogen activation,5.258967839609841,0.0496964703743538,2,BP

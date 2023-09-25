@@ -1,0 +1,49 @@
+	pathway	enrichment	pvalue	count	class			
+0	membrane	1.585707185	2.99E-12	42	CC	PCM-1	_	CC_PCM-1
+1	integral component of membrane	1.216078495	2.20E-10	48	CC	PCM-1	_	CC_PCM-1
+2	endoplasmic reticulum membrane	2.368746346	5.56E-10	22	CC	PCM-1	_	CC_PCM-1
+3	lysosomal lumen	4.583470958	3.47E-09	9	CC	PCM-1	_	CC_PCM-1
+4	lysosome	3.2022852	2.76E-07	11	CC	PCM-1	_	CC_PCM-1
+5	endoplasmic reticulum	1.939545492	5.53E-06	17	CC	PCM-1	_	CC_PCM-1
+6	mitochondrion	1.688405797	2.52E-05	18	CC	PCM-1	_	CC_PCM-1
+7	extracellular exosome	1.371993467	5.35E-05	22	CC	PCM-1	_	CC_PCM-1
+8	mitochondrial outer membrane	3.149110195	0.000130401	7	CC	PCM-1	_	CC_PCM-1
+9	lysosomal membrane	2.435798763	0.000643043	8	CC	PCM-1	_	CC_PCM-1
+10	Golgi membrane	1.975144464	0.000885938	10	CC	PCM-1	_	CC_PCM-1
+11	pore complex	5.805863379	0.001247674	3	CC	PCM-1	_	CC_PCM-1
+12	late endosome membrane	3.140730529	0.00240692	5	CC	PCM-1	_	CC_PCM-1
+13	integral component of mitochondrial inner membrane	4.255666296	0.010525102	3	CC	PCM-1	_	CC_PCM-1
+14	Golgi apparatus	1.326555536	0.010874485	11	CC	PCM-1	_	CC_PCM-1
+15	integral component of endoplasmic reticulum membrane	3.039571113	0.012403111	4	CC	PCM-1	_	CC_PCM-1
+16	azurophil granule membrane	3.755237306	0.020359148	3	CC	PCM-1	_	CC_PCM-1
+17	mitochondrial membrane	2.661933586	0.024710001	4	CC	PCM-1	_	CC_PCM-1
+18	cis-Golgi network	3.504693844	0.028135991	3	CC	PCM-1	_	CC_PCM-1
+19	mitochondrial inner membrane	1.697338922	0.036152453	6	CC	PCM-1	_	CC_PCM-1
+20	organelle membrane contact site	5.568824182	0.040833895	2	CC	PCM-1	_	CC_PCM-1
+21	nuclear inner membrane	3.121365205	0.0456651	3	CC	PCM-1	_	CC_PCM-1
+22	azurophil granule lumen	3.105423661	0.046579394	3	CC	PCM-1	_	CC_PCM-1
+								
+	pathway	enrichment	pvalue	count	class			
+	membrane	1.585707185	2.99E-12	42	CC_PCM-1			
+	integral component of membrane	1.216078495	2.20E-10	48	CC_PCM-1			
+	endoplasmic reticulum membrane	2.368746346	5.56E-10	22	CC_PCM-1			
+	lysosomal lumen	4.583470958	3.47E-09	9	CC_PCM-1			
+	lysosome	3.2022852	2.76E-07	11	CC_PCM-1			
+	endoplasmic reticulum	1.939545492	5.53E-06	17	CC_PCM-1			
+	mitochondrion	1.688405797	2.52E-05	18	CC_PCM-1			
+	extracellular exosome	1.371993467	5.35E-05	22	CC_PCM-1			
+	mitochondrial outer membrane	3.149110195	0.000130401	7	CC_PCM-1			
+	lysosomal membrane	2.435798763	0.000643043	8	CC_PCM-1			
+	Golgi membrane	1.975144464	0.000885938	10	CC_PCM-1			
+	pore complex	5.805863379	0.001247674	3	CC_PCM-1			
+	late endosome membrane	3.140730529	0.00240692	5	CC_PCM-1			
+	integral component of mitochondrial inner membrane	4.255666296	0.010525102	3	CC_PCM-1			
+	Golgi apparatus	1.326555536	0.010874485	11	CC_PCM-1			
+	integral component of endoplasmic reticulum membrane	3.039571113	0.012403111	4	CC_PCM-1			
+	azurophil granule membrane	3.755237306	0.020359148	3	CC_PCM-1			
+	mitochondrial membrane	2.661933586	0.024710001	4	CC_PCM-1			
+	cis-Golgi network	3.504693844	0.028135991	3	CC_PCM-1			
+	mitochondrial inner membrane	1.697338922	0.036152453	6	CC_PCM-1			
+	organelle membrane contact site	5.568824182	0.040833895	2	CC_PCM-1			
+	nuclear inner membrane	3.121365205	0.0456651	3	CC_PCM-1			
+	azurophil granule lumen	3.105423661	0.046579394	3	CC_PCM-1			

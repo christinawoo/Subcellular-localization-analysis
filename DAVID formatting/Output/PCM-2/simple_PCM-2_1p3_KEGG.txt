@@ -1,0 +1,4 @@
+,pathway,enrichment,pvalue,count,class
+0,Lysosome,4.225292654760999,1.0417273933425184e-06,7,KEGG
+1,Complement and coagulation cascades,3.6210295980809057,0.0224772806232832,3,KEGG
+2,Other glycan degradation,5.292406850619535,0.0478409029367989,2,KEGG
